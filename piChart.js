@@ -37,7 +37,7 @@ $(document).ready(function(){
             $("#hide").removeClass("active");
         } else {
             x = $(".freeNode") ;
-            x.fadeTo( "slow" , 0.1);
+            x.fadeTo( "slow" , 0.2);
             $("#hide").addClass("active");
         }
     });
