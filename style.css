@@ -44,11 +44,11 @@
 .topRight{
   position: absolute;
   width: 7px;
-	height: 27px;
-	margin-top: -19px;
-	margin-left: 15px;
-	border-left: 1px solid #ffffff;
-	border-right: 1px solid #ffffff;
+  height: 26px;
+  margin-top: -19px;
+  margin-left: 15px;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg); /* IE 9 */
   -webkit-transform: rotate(45deg); /* Safari and Chrome */
@@ -57,10 +57,10 @@
   position: absolute;
   width: 7px;
   height: 26px;
-	margin-top: -19px;
-	margin-left: -15px;
-	border-left: 1px solid #ffffff;
-	border-right: 1px solid #ffffff;
+  margin-top: -19px;
+  margin-left: -15px;
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
   transform: rotate(135deg);
   -ms-transform: rotate(135deg); /* IE 9 */
   -webkit-transform: rotate(135deg); /* Safari and Chrome */
@@ -68,18 +68,18 @@
 .right{
   position: absolute;
   height: 7px;
-	width: 14px;
-	margin-top: 6px;
-	margin-left: 11px;
-	border-top: 1px solid #ffffff;
-	border-bottom: 1px solid #ffffff;
+  width: 13px;
+  margin-top: 6px;
+  margin-left: 12px;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
 }
 .top{
-   position: absolute;
-   width: 7px;
-	 height: 14px;
-	 margin-top: -13px;
-	 margin-left: 0px;
-	 border-right: 1px solid #ffffff;
-	 border-left: 1px solid #ffffff;
+  position: absolute;
+  width: 7px;
+  height: 14px;
+  margin-top: -13px;
+  margin-left: 0px;
+  border-right: 1px solid #ffffff;
+  border-left: 1px solid #ffffff;
 }
